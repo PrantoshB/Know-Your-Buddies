@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/know-your-buddies/static/css/main.b309f261.css",
+    "main.js": "/know-your-buddies/static/js/main.81d9ab70.js",
+    "index.html": "/know-your-buddies/index.html",
+    "main.b309f261.css.map": "/know-your-buddies/static/css/main.b309f261.css.map",
+    "main.81d9ab70.js.map": "/know-your-buddies/static/js/main.81d9ab70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b309f261.css",
+    "static/js/main.81d9ab70.js"
+  ]
+}
